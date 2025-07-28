@@ -19,6 +19,7 @@ import {
   ecosystem,
   orderez,
   threejs,
+  emtech,
   yebelo,
   gdsc,
   mit,
@@ -136,6 +137,18 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Software Engineer",
+      company_name: "EmTech Care Labs",
+      icon: emtech,
+      iconBg: "#383E56",
+      date: "Feb 2023 - April 2023",
+      points: [
+        "Developed and deployed full-stack applications using JavaScript, AWS and other technologies",
+        "Pioneered the construction of a critical system, constantly learning many new things needed for the project's success",
+        "Crafted robust features, agilely fixed bugs, amassing over 10,000 delighted users through technical mastery and prioritizing user experience",
+      ],
+    },
     {
       title: "Associate Software Engineer",
       company_name: "Yebelo Technology",

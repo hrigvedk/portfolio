@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { resume } from '../assets/index'
+// import { resume } from '../assets/index'
 
 const ResumeButton = () => {
   const handleDownload = () => {

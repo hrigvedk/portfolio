@@ -34,6 +34,7 @@ import yebelo from "./company/yebelo.png";
 import mit from "./company/gdsc.png";
 import gdsc from "./company/mit.png";
 import sabertooth from "./company/sabertooth.png";
+import emtech from "./company/emtech.jpg";
 
 //Projects
 import ecosystem from "./ecosystem.png";
@@ -81,5 +82,6 @@ export {
   python,
   aws,
   android,
-  swift
+  swift,
+  emtech
 };

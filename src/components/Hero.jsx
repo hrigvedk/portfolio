@@ -123,7 +123,7 @@ const Hero = () => {
             <img
               src={logo}
               alt="Logo"
-              className="w-80 h-80 rounded-full border-4 border-secondary p-4 mx-auto"
+              className="w-80 h-80 rounded-full border-4 border-secondary p-4 mx-auto object-cover"
               style={{
                 width: isMobile ? "12rem" : "20rem",
                 height: isMobile ? "12rem" : "20rem",
